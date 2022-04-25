@@ -1,0 +1,39 @@
+*{
+    margin:0px;
+}
+.postcard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 500px;
+    width:400px;
+    height:300px;
+    background-color: paleturquoise;
+    box-shadow: 2px 3px 2px 1px;
+}
+input{
+    border:0px;
+    border-bottom: 1px solid black;
+}
+.headersposting{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:blueviolet;
+    width: auto;
+    height: 100px;
+}
+.nameposting{
+    margin-left: 30px;
+}
+.titleposting{
+    margin-right: 30px;
+}
+.mainpage{
+    background-image: url(https://images.unsplash.com/photo-1611162618758-2a29a995354b?ixlib=rb-1.2.1);
+    background-repeat: repeat;
+    background-size: 200px;
+    height: 1000px;
+}

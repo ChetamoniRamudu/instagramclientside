@@ -1,0 +1,51 @@
+*{
+    margin:0px;
+}
+.vcard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    background-color: aquamarine;
+    border:1px solid black;
+    width:300px;
+    height:auto;
+    box-shadow: 2px 3px 2px 1px;
+    margin-bottom: 10px;
+}
+.title{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.btns{
+    display: flex;
+    align-items: center;
+    justify-content:flex-end;
+}
+
+.instapostheader{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    background-color: mediumpurple;
+    height: 100px;
+    width: auto;
+    margin-bottom: 10px;
+}
+.postname{ 
+
+    margin-left: 30px;
+}
+.postpost{
+    margin-left: 700px;
+    text-decoration: none;
+}
+.Postcard{
+   background-color: lightsteelblue;
+}
+.li{
+    margin-right: 30px;
+}

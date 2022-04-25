@@ -1,0 +1,48 @@
+*{
+    margin:0px;
+}
+.mainregpage{
+    width:500px;
+    height:300px;
+    border:1px solid black;
+    margin-top: 100px;
+    margin-left:300px ;
+    box-shadow: 2px 4px 2px 1px;
+    background-color: paleturquoise;
+}
+.regpage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:100px;
+  
+}
+.fields{
+    border:0px;
+    border-bottom: 1px solid black;
+}
+.btn{
+    margin-left: 100px;
+    margin-top: 20px;
+    background: skyblue;
+}
+.regheader{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: blanchedalmond;
+    height: 100px;
+}
+.reginstaname{
+    margin-left: 30px;
+}
+.reginstaenter{
+    margin-right: 30px;
+}
+.reggg{
+    background-image: url(https://images.unsplash.com/photo-1611262588024-d12430b98920?ixlib=rb-1.2.1);
+    background-repeat: repeat;
+    background-size: 200px;
+    height:1500px;
+
+}

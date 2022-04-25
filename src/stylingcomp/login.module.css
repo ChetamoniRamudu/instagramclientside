@@ -1,0 +1,45 @@
+*{
+    margin:0px;
+}
+.loginpage{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    width:500px;
+    height:300px;
+    background-color: paleturquoise;
+    margin-top: 100px;
+    margin-left: 300px;
+    box-shadow: 2px 3px 2px 1px;
+}
+.instatitle{
+    color:brown;
+}
+.instabtn{
+    background-color: skyblue;
+    margin-left: 60px;
+}
+.loginbtn{
+    background-color: aquamarine;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.loginheader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:aquamarine;
+    height: 100px;
+}
+.instaname{
+    margin-left: 30px;
+}
+.instaenter{
+    margin-right: 30px;
+}
+.back{
+    background-image: url(https://images.unsplash.com/photo-1611262588024-d12430b98920?ixlib=rb-1.2.1);
+    background-repeat: repeat;
+    background-size: 200px;
+    height:1500px;
+}
